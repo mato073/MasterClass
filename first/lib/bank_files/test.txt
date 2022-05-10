@@ -1,0 +1,3 @@
+{:ok, pid} = My.Gen.Server.start_link([])
+My.Gen.Server.create_acount("Matt", "Stone", pid)
+My.Gen.Server.add_money(pid, "1851849517786", 100)

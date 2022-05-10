@@ -1,0 +1,14 @@
+{
+    "1851849517786": {
+        "money": 100,
+        "lastName": "Stone",
+        "firstName": "Matt",
+        "accountNumber": "1851849517786"
+    },
+    "1234567890123": {
+        "money": 100000000,
+        "lastName": "Mater",
+        "firstName": "Gaspard",
+        "accountNumber": "1234567890123"
+    }
+}
